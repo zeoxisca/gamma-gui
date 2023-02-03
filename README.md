@@ -1,4 +1,4 @@
-# GAMMA-GUI
+# GAMMA-GUI （Xray POC generator)
 
 ## 描述
 本项目开源网页版代码，试用：https://poc.xray.cool 。
