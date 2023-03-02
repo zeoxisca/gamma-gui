@@ -33,10 +33,16 @@ release 中有 本地版本
 ![img.png](img.png)
 
 ## 本地版
-
+本地版接入gamma，实现了本地poc自测、格式校验。
 ### view
 编写poc
 ![编写界面](https://user-images.githubusercontent.com/30494892/222369659-cd88aae2-6c96-4d77-bc5d-9e735021c5ef.png)
 目标测试
 ![目标测试](https://user-images.githubusercontent.com/30494892/222369793-0e439fbf-a281-4cf8-b29d-69a529e8ca43.png)
 
+### todo
+- [ ] 失败结果展示
+- [ ] 代码历史版本
+- [ ] 代码历史版本对比
+- [ ] 本地 poc 管理
+- [ ] ...
