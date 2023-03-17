@@ -41,8 +41,8 @@ release 中有 本地版本
 ![目标测试](https://user-images.githubusercontent.com/30494892/222369793-0e439fbf-a281-4cf8-b29d-69a529e8ca43.png)
 
 ### todo
-- [ ] 失败结果展示
-- [ ] 代码历史版本
+- [x] 失败结果展示
+- [x] 代码历史版本
 - [ ] 代码历史版本对比
 - [ ] 本地 poc 管理
 - [ ] ...
